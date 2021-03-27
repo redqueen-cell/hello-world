@@ -1,3 +1,3 @@
 # hello-world
-<i>GitHub tutorial repository</i>
-Hello, my name is Sophia and this is a test
+<i>GitHub tutorial repository</i><p>
+Hello, my name is <b>Sophia</b>. This is a test.
